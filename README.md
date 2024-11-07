@@ -5,7 +5,7 @@ Este vídeo rápido apresenta um treino para melhoria do Cardiorespiratório e q
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT para roteirização e revisão;
-IA Generativa D-ID para sintetização de voz e geração de avatar virtual.
+IA Generativa D-ID para sintetização de voz e geração de avatar virtual. (ainda aguardando a geração do vídeo pela D-ID)
 
 
 ## 🧐 Processo de Criação
