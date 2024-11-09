@@ -9,10 +9,11 @@ IA Generativa D-ID para sintetização de voz e geração de avatar virtual. (ai
 
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. 
+Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar o vídeo a partir de uma foto pessoal e minha voz sintetizada, trazendo uma Fake Natty personalizada. 
 
 ## 🚀 Resultados
 Aprendi sobre zonas de treino e além disso trabalhar com as ferramentas de IA para gerar conteúdo. 
+Link do vídeo: https://studio.d-id.com/share?id=3145090df6f20547274f9e48c15af34e
 
 
 ## 💭 Reflexão (Opcional)
